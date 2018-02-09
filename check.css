@@ -1,0 +1,16 @@
+input[name="ossm"] + label {
+  color: #ccc;
+  font-style: italic;
+} 
+input[name="ossm"]:checked + label {
+  color: #f00;
+  font-style: normal;
+} 
+input[name="ossm1"] + label {
+  color: #ccc;
+  font-style: italic;
+} 
+input[name="ossm1"]:checked + label {
+  color: #f00;
+  font-style: normal;
+} 
